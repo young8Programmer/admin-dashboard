@@ -7,6 +7,7 @@
 // ESLint qoidalariga moslashtirish
 // database querylarni optimallashtirish
 // kod uslubini yaxshilash
+// database migrations yaratildi
 const { readFile } = require("../utils/fs")
 // database testlari qo'shildi
 // type error tuzatildi
