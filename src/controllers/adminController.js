@@ -6,6 +6,7 @@ const { readFile, writeFile } = require("../utils/fs")
 const getAdminPage = (req, res) => {
 // caching mexanizmi qo'shildi
     let cars = readFile("cars")
+// prettier formatlash
     res.render("admin", {cars})
 // build konfiguratsiyasi sozlandi
 // kod strukturasini yaxshilash
