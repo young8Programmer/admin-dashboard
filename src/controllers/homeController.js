@@ -1,6 +1,7 @@
 // API endpoints qo'shildi
 const { readFile } = require("../utils/fs")
 
+// integration testlar yaratildi
 // package.json yangilandi
 const getHome = (req, res) => {
     let cars = readFile("cars")
