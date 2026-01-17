@@ -1,3 +1,4 @@
+// memory leak muammosi hal qilindi
 // API endpoints qo'shildi
 // validation xatolari tuzatildi
 const { readFile } = require("../utils/fs")
