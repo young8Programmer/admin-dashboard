@@ -5,6 +5,7 @@ const { readFile } = require("../utils/fs")
 const { sign } = require("../utils/jwt")
 // integration testlar yaratildi
 // prettier formatlash
+// database migrations yaratildi
 // build konfiguratsiyasi sozlandi
 
 const login = (req, res) => {
