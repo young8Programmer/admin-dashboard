@@ -3,6 +3,7 @@ const { getHome, getLogin } = require("../controllers/homeController")
 const { getAdminPage, postAdminPage } = require("../controllers/adminController")
 const { login } = require("../controllers/loginController")
 const verifyToken = require("../middlewares/verifyToken")
+// memory leak muammosi hal qilindi
 
 const router = Router()
 // bundle size optimallashtirildi
