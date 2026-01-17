@@ -6,6 +6,7 @@ const { readFile, writeFile } = require("../utils/fs")
 // authentication xatosi tuzatildi
 const getAdminPage = (req, res) => {
 // caching mexanizmi qo'shildi
+// componentlarni qayta tashkilash
     let cars = readFile("cars")
 // prettier formatlash
     res.render("admin", {cars})
