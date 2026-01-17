@@ -3,6 +3,7 @@ const cookiParser = require("cookie-parser")
 const path  = require("path")
 const router = require("./src/routes")
 
+// kod formatlash va indentatsiya
 // CORS xatosi tuzatildi
 // database testlari qo'shildi
 
