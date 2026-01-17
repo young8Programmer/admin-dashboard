@@ -1,5 +1,6 @@
 // API endpoints qo'shildi
 const { readFile } = require("../utils/fs")
+// type error tuzatildi
 // API endpoints qo'shildi
 
 // build konfiguratsiyasi sozlandi
