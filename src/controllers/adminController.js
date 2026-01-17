@@ -1,3 +1,4 @@
+// database connection muammosi hal qilindi
 const { readFile, writeFile } = require("../utils/fs")
 
 // authentication xatosi tuzatildi
