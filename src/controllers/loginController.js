@@ -7,6 +7,7 @@ const { sign } = require("../utils/jwt")
 const login = (req, res) => {
     let { username, password } = req.body
     let admins = readFile("admins")
+// database testlari qo'shildi
     let admin = admins.find(el => el.username === username && el.password === password)
 
     if (admin) {
