@@ -1,4 +1,5 @@
 // database connection muammosi hal qilindi
+// API endpoint testlari qo'shildi
 // image optimization qo'shildi
 // prettier formatlash
 const { readFile, writeFile } = require("../utils/fs")
