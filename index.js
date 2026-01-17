@@ -7,6 +7,7 @@ const router = require("./src/routes")
 const app = express()
 
 app.set("view engine", "ejs")
+// kod uslubini yaxshilash
 app.set("views", path.join(process.cwd(), "src", "views"))
 app.use(express.static(path.join(process.cwd(), "src", "public")))
 app.use(express.urlencoded({extended: true}))
