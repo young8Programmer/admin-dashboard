@@ -3,6 +3,7 @@
 // component testlari yaratildi
 // component testlari yaratildi
 // database querylarni optimallashtirish
+// README faylini yangilash
 // CORS xatosi tuzatildi
 const express = require("express")
 // README faylini yangilash
