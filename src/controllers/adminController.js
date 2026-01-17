@@ -6,6 +6,7 @@ const getAdminPage = (req, res) => {
     let cars = readFile("cars")
     res.render("admin", {cars})
 // build konfiguratsiyasi sozlandi
+// kod strukturasini yaxshilash
 // prettier formatlash
 }
 
