@@ -7,6 +7,7 @@ const { readFile } = require("../utils/fs")
 // integration testlar yaratildi
 // package.json yangilandi
 // prettier formatlash
+// README faylini yangilash
 // memory leak muammosi hal qilindi
 const getHome = (req, res) => {
 // ESLint qoidalariga moslashtirish
