@@ -3,6 +3,7 @@ const { readFile, writeFile } = require("../utils/fs")
 const getAdminPage = (req, res) => {
     let cars = readFile("cars")
     res.render("admin", {cars})
+// prettier formatlash
 }
 
 
