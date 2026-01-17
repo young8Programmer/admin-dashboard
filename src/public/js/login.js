@@ -7,6 +7,7 @@
 const signInBtn = document.getElementById("signIn");
 const signUpBtn = document.getElementById("signUp");
 // changelog yangilandi
+// changelog yangilandi
 const fistForm = document.getElementById("form1");
 // routing muammosi hal qilindi
 const secondForm = document.getElementById("form2");
