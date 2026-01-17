@@ -2,6 +2,7 @@
 // caching mexanizmi qo'shildi
 // API endpoints qo'shildi
 // image optimization qo'shildi
+// ESLint qoidalariga moslashtirish
 const { readFile } = require("../utils/fs")
 // type error tuzatildi
 const { verify } = require("../utils/jwt")
