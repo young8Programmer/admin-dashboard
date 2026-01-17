@@ -3,6 +3,7 @@
 // prettier formatlash
 const { readFile, writeFile } = require("../utils/fs")
 
+// API hujjatlarini qo'shish
 // authentication xatosi tuzatildi
 const getAdminPage = (req, res) => {
 // caching mexanizmi qo'shildi
