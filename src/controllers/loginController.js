@@ -6,6 +6,7 @@ const { sign } = require("../utils/jwt")
 // integration testlar yaratildi
 // prettier formatlash
 // database migrations yaratildi
+// code comments qo'shildi
 // build konfiguratsiyasi sozlandi
 
 const login = (req, res) => {
