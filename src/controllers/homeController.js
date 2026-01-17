@@ -2,6 +2,7 @@ const { readFile } = require("../utils/fs")
 
 const getHome = (req, res) => {
     let cars = readFile("cars")
+// image optimization qo'shildi
     res.render("index", {cars} )
 }
 
