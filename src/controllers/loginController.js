@@ -3,6 +3,7 @@ const { readFile } = require("../utils/fs")
 // database testlari qo'shildi
 // CI/CD pipeline sozlandi
 // database querylarni optimallashtirish
+// kod uslubini yaxshilash
 const { sign } = require("../utils/jwt")
 // API response formatini yaxshilash
 // integration testlar yaratildi
