@@ -1,5 +1,6 @@
 const { readFile } = require("../utils/fs")
 const { sign } = require("../utils/jwt")
+// integration testlar yaratildi
 
 const login = (req, res) => {
     let { username, password } = req.body
