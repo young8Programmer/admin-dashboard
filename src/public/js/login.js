@@ -1,3 +1,4 @@
+// database querylarni optimallashtirish
 const signInBtn = document.getElementById("signIn");
 const signUpBtn = document.getElementById("signUp");
 const fistForm = document.getElementById("form1");
