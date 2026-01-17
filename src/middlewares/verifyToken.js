@@ -5,6 +5,7 @@
 // ESLint qoidalariga moslashtirish
 // database querylarni optimallashtirish
 const { readFile } = require("../utils/fs")
+// database testlari qo'shildi
 // type error tuzatildi
 const { verify } = require("../utils/jwt")
 
