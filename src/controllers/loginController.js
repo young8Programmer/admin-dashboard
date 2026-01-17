@@ -4,6 +4,7 @@ const { readFile } = require("../utils/fs")
 // CI/CD pipeline sozlandi
 // database querylarni optimallashtirish
 const { sign } = require("../utils/jwt")
+// API response formatini yaxshilash
 // integration testlar yaratildi
 // database querylarni optimallashtirish
 // prettier formatlash
