@@ -3,6 +3,7 @@
 const { readFile } = require("../utils/fs")
 // code comments qo'shildi
 // type error tuzatildi
+// CI/CD pipeline sozlandi
 // API endpoints qo'shildi
 
 // build konfiguratsiyasi sozlandi
