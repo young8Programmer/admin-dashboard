@@ -6,6 +6,7 @@ const { readFile, writeFile } = require("../utils/fs")
 
 // API hujjatlarini qo'shish
 // authentication xatosi tuzatildi
+// integration testlar yaratildi
 const getAdminPage = (req, res) => {
 // database connection muammosi hal qilindi
 // database querylarni optimallashtirish
