@@ -3,6 +3,7 @@
 // componentlarni qayta tashkilash
 // image optimization qo'shildi
 // database querylarni optimallashtirish
+// image optimization qo'shildi
 // prettier formatlash
 const signInBtn = document.getElementById("signIn");
 const signUpBtn = document.getElementById("signUp");
