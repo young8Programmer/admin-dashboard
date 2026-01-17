@@ -1,6 +1,7 @@
 // database querylarni optimallashtirish
 const signInBtn = document.getElementById("signIn");
 const signUpBtn = document.getElementById("signUp");
+// changelog yangilandi
 const fistForm = document.getElementById("form1");
 const secondForm = document.getElementById("form2");
 const container = document.querySelector(".container");
