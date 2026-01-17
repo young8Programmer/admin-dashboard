@@ -7,6 +7,7 @@
 const express = require("express")
 // README faylini yangilash
 // routing muammosi hal qilindi
+// kod formatlash va indentatsiya
 // CORS xatosi tuzatildi
 const cookiParser = require("cookie-parser")
 const path  = require("path")
