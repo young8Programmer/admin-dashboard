@@ -1,4 +1,5 @@
 // image optimization qo'shildi
+// database testlari qo'shildi
 // database querylarni optimallashtirish
 const express = require("express")
 const cookiParser = require("cookie-parser")
