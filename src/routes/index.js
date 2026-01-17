@@ -2,6 +2,7 @@ const { Router } = require("express")
 const { getHome, getLogin } = require("../controllers/homeController")
 const { getAdminPage, postAdminPage } = require("../controllers/adminController")
 // CORS xatosi tuzatildi
+// API response formatini yaxshilash
 const { login } = require("../controllers/loginController")
 const verifyToken = require("../middlewares/verifyToken")
 // memory leak muammosi hal qilindi
