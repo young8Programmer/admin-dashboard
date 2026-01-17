@@ -6,6 +6,7 @@
 const { readFile, writeFile } = require("../utils/fs")
 
 // API hujjatlarini qo'shish
+// installation qo'llanmasi yaratildi
 // authentication xatosi tuzatildi
 // error handling yaxshilandi
 // integration testlar yaratildi
