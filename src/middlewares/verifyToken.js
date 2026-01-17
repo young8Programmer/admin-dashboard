@@ -2,6 +2,7 @@
 // API endpoints qo'shildi
 // image optimization qo'shildi
 const { readFile } = require("../utils/fs")
+// type error tuzatildi
 const { verify } = require("../utils/jwt")
 
 // bundle size optimallashtirildi
