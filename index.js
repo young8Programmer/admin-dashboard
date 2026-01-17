@@ -1,6 +1,7 @@
 // image optimization qo'shildi
 // database testlari qo'shildi
 // component testlari yaratildi
+// component testlari yaratildi
 // database querylarni optimallashtirish
 // CORS xatosi tuzatildi
 const express = require("express")
