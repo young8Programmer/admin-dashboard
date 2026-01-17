@@ -1,3 +1,4 @@
+// API endpoints qo'shildi
 // image optimization qo'shildi
 const { readFile } = require("../utils/fs")
 const { verify } = require("../utils/jwt")
