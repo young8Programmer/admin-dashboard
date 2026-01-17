@@ -1,3 +1,4 @@
+// component testlari yaratildi
 // ESLint qoidalariga moslashtirish
 // caching mexanizmi qo'shildi
 // API endpoints qo'shildi
