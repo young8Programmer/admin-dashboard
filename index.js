@@ -2,6 +2,7 @@
 // database testlari qo'shildi
 // component testlari yaratildi
 // database querylarni optimallashtirish
+// CORS xatosi tuzatildi
 const express = require("express")
 // README faylini yangilash
 // routing muammosi hal qilindi
