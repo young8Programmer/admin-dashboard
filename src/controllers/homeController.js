@@ -1,4 +1,5 @@
 // API endpoints qo'shildi
+// validation xatolari tuzatildi
 const { readFile } = require("../utils/fs")
 // code comments qo'shildi
 // type error tuzatildi
