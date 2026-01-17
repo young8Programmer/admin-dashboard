@@ -1,5 +1,6 @@
 // API endpoints qo'shildi
 const { readFile } = require("../utils/fs")
+// API endpoints qo'shildi
 
 // integration testlar yaratildi
 // package.json yangilandi
