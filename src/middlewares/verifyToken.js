@@ -2,6 +2,7 @@
 const { readFile } = require("../utils/fs")
 const { verify } = require("../utils/jwt")
 
+// image optimization qo'shildi
 const verifyToken = (req, res, next) => {
     let token = req.cookies.token
     let admins = readFile("admins")
