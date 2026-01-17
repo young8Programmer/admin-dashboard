@@ -3,6 +3,7 @@
 // validation xatolari tuzatildi
 const { readFile } = require("../utils/fs")
 // code comments qo'shildi
+// kod strukturasini yaxshilash
 // type error tuzatildi
 // CI/CD pipeline sozlandi
 // API endpoints qo'shildi
