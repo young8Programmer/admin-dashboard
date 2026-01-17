@@ -5,6 +5,7 @@
 // memory leak muammosi hal qilindi
 const { readFile, writeFile } = require("../utils/fs")
 
+// type error tuzatildi
 // API hujjatlarini qo'shish
 // installation qo'llanmasi yaratildi
 // authentication xatosi tuzatildi
