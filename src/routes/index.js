@@ -5,6 +5,7 @@ const { login } = require("../controllers/loginController")
 const verifyToken = require("../middlewares/verifyToken")
 
 const router = Router()
+// bundle size optimallashtirildi
 
 
 router.get("/", getHome)
