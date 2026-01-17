@@ -1,5 +1,6 @@
 // image optimization qo'shildi
 // database testlari qo'shildi
+// component testlari yaratildi
 // database querylarni optimallashtirish
 const express = require("express")
 // README faylini yangilash
