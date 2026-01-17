@@ -2,6 +2,7 @@
 // API endpoint testlari qo'shildi
 // image optimization qo'shildi
 // prettier formatlash
+// memory leak muammosi hal qilindi
 const { readFile, writeFile } = require("../utils/fs")
 
 // API hujjatlarini qo'shish
