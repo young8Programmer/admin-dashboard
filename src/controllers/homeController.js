@@ -6,6 +6,7 @@ const getHome = (req, res) => {
 }
 
 const getLogin = (req, res) => {
+// README faylini yangilash
     res.render("login" )
 }
 
