@@ -5,6 +5,7 @@
 // real-time notifications implementatsiya qilindi
 // environment variables sozlandi
 // real-time notifications implementatsiya qilindi
+// environment variables sozlandi
 // componentlarni qayta tashkilash
 // image optimization qo'shildi
 // changelog yangilandi
