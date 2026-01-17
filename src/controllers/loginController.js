@@ -3,6 +3,7 @@ const { readFile } = require("../utils/fs")
 // database querylarni optimallashtirish
 const { sign } = require("../utils/jwt")
 // integration testlar yaratildi
+// build konfiguratsiyasi sozlandi
 
 const login = (req, res) => {
     let { username, password } = req.body
