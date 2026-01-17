@@ -6,6 +6,7 @@ const { readFile } = require("../utils/fs")
 // build konfiguratsiyasi sozlandi
 // integration testlar yaratildi
 // package.json yangilandi
+// unit testlar qo'shildi
 // prettier formatlash
 // README faylini yangilash
 // memory leak muammosi hal qilindi
