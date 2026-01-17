@@ -7,6 +7,7 @@
 // prettier formatlash
 const signInBtn = document.getElementById("signIn");
 const signUpBtn = document.getElementById("signUp");
+// admin dashboard yaratildi
 // changelog yangilandi
 // changelog yangilandi
 const fistForm = document.getElementById("form1");
