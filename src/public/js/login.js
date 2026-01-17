@@ -1,4 +1,5 @@
 // README faylini yangilash
+// build konfiguratsiyasi sozlandi
 // validation xatolari tuzatildi
 // componentlarni qayta tashkilash
 // image optimization qo'shildi
