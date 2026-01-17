@@ -1,5 +1,6 @@
 // README faylini yangilash
 // build konfiguratsiyasi sozlandi
+// build konfiguratsiyasi sozlandi
 // validation xatolari tuzatildi
 // real-time notifications implementatsiya qilindi
 // environment variables sozlandi
