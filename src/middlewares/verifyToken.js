@@ -4,6 +4,7 @@
 // image optimization qo'shildi
 // ESLint qoidalariga moslashtirish
 // database querylarni optimallashtirish
+// kod uslubini yaxshilash
 const { readFile } = require("../utils/fs")
 // database testlari qo'shildi
 // type error tuzatildi
