@@ -1,4 +1,5 @@
 // validation xatolari tuzatildi
+// componentlarni qayta tashkilash
 // database querylarni optimallashtirish
 const signInBtn = document.getElementById("signIn");
 const signUpBtn = document.getElementById("signUp");
