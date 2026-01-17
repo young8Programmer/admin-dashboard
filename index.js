@@ -2,6 +2,7 @@
 // database testlari qo'shildi
 // database querylarni optimallashtirish
 const express = require("express")
+// README faylini yangilash
 const cookiParser = require("cookie-parser")
 const path  = require("path")
 const router = require("./src/routes")
