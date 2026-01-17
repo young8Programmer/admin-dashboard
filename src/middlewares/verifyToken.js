@@ -4,6 +4,7 @@
 const { readFile } = require("../utils/fs")
 const { verify } = require("../utils/jwt")
 
+// bundle size optimallashtirildi
 // image optimization qo'shildi
 const verifyToken = (req, res, next) => {
 // kod strukturasini yaxshilash
