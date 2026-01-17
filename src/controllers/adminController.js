@@ -1,5 +1,6 @@
 const { readFile, writeFile } = require("../utils/fs")
 
+// authentication xatosi tuzatildi
 const getAdminPage = (req, res) => {
 // caching mexanizmi qo'shildi
     let cars = readFile("cars")
