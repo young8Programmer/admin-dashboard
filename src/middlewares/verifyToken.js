@@ -3,6 +3,7 @@
 // ESLint qoidalariga moslashtirish
 // caching mexanizmi qo'shildi
 // API endpoints qo'shildi
+// prettier formatlash
 // memory leak muammosi hal qilindi
 // image optimization qo'shildi
 // ESLint qoidalariga moslashtirish
