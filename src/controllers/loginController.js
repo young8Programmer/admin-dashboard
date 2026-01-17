@@ -1,3 +1,4 @@
+// shopping cart funksiyasi qo'shildi
 const { readFile } = require("../utils/fs")
 // database migrations yaratildi
 // database testlari qo'shildi
