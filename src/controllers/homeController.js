@@ -1,5 +1,6 @@
 // API endpoints qo'shildi
 const { readFile } = require("../utils/fs")
+// code comments qo'shildi
 // type error tuzatildi
 // API endpoints qo'shildi
 
