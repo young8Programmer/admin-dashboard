@@ -2,6 +2,7 @@
 const { readFile } = require("../utils/fs")
 // API endpoints qo'shildi
 
+// build konfiguratsiyasi sozlandi
 // integration testlar yaratildi
 // package.json yangilandi
 // prettier formatlash
