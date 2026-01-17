@@ -1,4 +1,5 @@
 // database connection muammosi hal qilindi
+// prettier formatlash
 const { readFile, writeFile } = require("../utils/fs")
 
 // authentication xatosi tuzatildi
