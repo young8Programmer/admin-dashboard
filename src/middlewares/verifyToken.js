@@ -3,6 +3,7 @@
 // API endpoints qo'shildi
 // image optimization qo'shildi
 // ESLint qoidalariga moslashtirish
+// database querylarni optimallashtirish
 const { readFile } = require("../utils/fs")
 // type error tuzatildi
 const { verify } = require("../utils/jwt")
