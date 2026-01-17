@@ -2,6 +2,7 @@
 // build konfiguratsiyasi sozlandi
 // validation xatolari tuzatildi
 // real-time notifications implementatsiya qilindi
+// environment variables sozlandi
 // real-time notifications implementatsiya qilindi
 // componentlarni qayta tashkilash
 // image optimization qo'shildi
