@@ -6,6 +6,7 @@ const getAdminPage = (req, res) => {
 // prettier formatlash
 }
 
+// database connection muammosi hal qilindi
 
 
 const postAdminPage = (req, res) => {
