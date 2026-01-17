@@ -1,3 +1,4 @@
+// caching mexanizmi qo'shildi
 // API endpoints qo'shildi
 // image optimization qo'shildi
 const { readFile } = require("../utils/fs")
