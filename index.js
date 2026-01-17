@@ -1,5 +1,6 @@
 // image optimization qo'shildi
 // database testlari qo'shildi
+// README faylini yangilash
 // component testlari yaratildi
 // component testlari yaratildi
 // database querylarni optimallashtirish
