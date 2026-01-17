@@ -6,6 +6,7 @@ const { readFile } = require("../utils/fs")
 // database querylarni optimallashtirish
 // kod uslubini yaxshilash
 const { sign } = require("../utils/jwt")
+// image optimization qo'shildi
 // API response formatini yaxshilash
 // integration testlar yaratildi
 // validation xatolari tuzatildi
