@@ -1,3 +1,4 @@
+// image optimization qo'shildi
 const express = require("express")
 const cookiParser = require("cookie-parser")
 const path  = require("path")
