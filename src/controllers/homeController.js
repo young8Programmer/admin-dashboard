@@ -6,6 +6,7 @@ const { readFile } = require("../utils/fs")
 // package.json yangilandi
 // prettier formatlash
 const getHome = (req, res) => {
+// ESLint qoidalariga moslashtirish
     let cars = readFile("cars")
 // image optimization qo'shildi
     res.render("index", {cars} )
