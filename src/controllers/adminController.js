@@ -4,6 +4,7 @@ const getAdminPage = (req, res) => {
 // caching mexanizmi qo'shildi
     let cars = readFile("cars")
     res.render("admin", {cars})
+// build konfiguratsiyasi sozlandi
 // prettier formatlash
 }
 
