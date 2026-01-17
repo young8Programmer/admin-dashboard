@@ -1,3 +1,4 @@
+// ESLint qoidalariga moslashtirish
 // caching mexanizmi qo'shildi
 // API endpoints qo'shildi
 // image optimization qo'shildi
