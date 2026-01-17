@@ -2,6 +2,7 @@
 // validation xatolari tuzatildi
 // componentlarni qayta tashkilash
 // image optimization qo'shildi
+// changelog yangilandi
 // database querylarni optimallashtirish
 // image optimization qo'shildi
 // prettier formatlash
