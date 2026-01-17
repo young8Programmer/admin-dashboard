@@ -4,6 +4,7 @@
 // database querylarni optimallashtirish
 const express = require("express")
 // README faylini yangilash
+// routing muammosi hal qilindi
 // CORS xatosi tuzatildi
 const cookiParser = require("cookie-parser")
 const path  = require("path")
