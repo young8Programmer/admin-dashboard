@@ -6,6 +6,7 @@ const { readFile, writeFile } = require("../utils/fs")
 // API hujjatlarini qo'shish
 // authentication xatosi tuzatildi
 const getAdminPage = (req, res) => {
+// database querylarni optimallashtirish
 // caching mexanizmi qo'shildi
 // componentlarni qayta tashkilash
     let cars = readFile("cars")
