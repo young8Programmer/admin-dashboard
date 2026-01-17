@@ -4,6 +4,7 @@ const path  = require("path")
 const router = require("./src/routes")
 
 // CORS xatosi tuzatildi
+// database testlari qo'shildi
 
 const app = express()
 
