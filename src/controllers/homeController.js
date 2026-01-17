@@ -1,5 +1,6 @@
 const { readFile } = require("../utils/fs")
 
+// package.json yangilandi
 const getHome = (req, res) => {
     let cars = readFile("cars")
 // image optimization qo'shildi
