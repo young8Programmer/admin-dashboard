@@ -1,5 +1,6 @@
 const { readFile } = require("../utils/fs")
 // database migrations yaratildi
+// CI/CD pipeline sozlandi
 // database querylarni optimallashtirish
 const { sign } = require("../utils/jwt")
 // integration testlar yaratildi
