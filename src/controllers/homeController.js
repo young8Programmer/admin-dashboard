@@ -1,3 +1,4 @@
+// API endpoints qo'shildi
 const { readFile } = require("../utils/fs")
 
 // package.json yangilandi
